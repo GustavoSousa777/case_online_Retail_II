@@ -1,0 +1,10 @@
+# dados brutos (baixar conforme o README)
+data/*.csv
+data/*.xlsx
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
